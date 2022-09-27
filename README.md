@@ -17,4 +17,8 @@ Immutable code(Immutable1.java):- Immutableclass is to demonstarte immutable cla
 
 regex code(Regex1.java):-  Regularexpression class is to validate the employee details like email, employee id, phone number and address. The following restrictions are imposed in the email address local part a> It allows numeric values from 0 to 9.
 
+Throw code(ExpThrow.java):-The Java throw keyword is used to throw an exception explicitly.If the age is less than 18, we are throwing the ArithmeticException otherwise print a message Eligible to vote.
+
+Exception code (arrayexception.java):- a]- using try catch - Java try block is used to enclose the code that might throw an exception. It must be used   within the method.If an exception occurs at the particular statement in the try block, the rest of the block code will not execute. 
+                                       b]- using try catch twice- so using this we can work with more exception as in this code I worked withIndexOutOfBoundsException and Arithmetic Expressions in a single code         
 
