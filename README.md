@@ -22,7 +22,9 @@ Throw code(ExpThrow.java):-The Java throw keyword is used to throw an exception 
 Exception code (arrayexception.java):- a]- using try catch - Java try block is used to enclose the code that might throw an exception. It must be used   within the method.If an exception occurs at the particular statement in the try block, the rest of the block code will not execute. 
                                        b]- using try catch twice- so using this we can work with more exception as in this code I worked withIndexOutOfBoundsException and Arithmetic Expressions in a single code         
                                        
-Exception code with fianlly (Exceptiontest.java):- I took 5 statements and put some condition and if satisfies that condition then it prints all statements otherwise it prints only those statements before those conditin was not applied.Also use finally ,"finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.                                       
+Exception code with fianlly (Exceptiontest.java):- I took 5 statements and put some condition and if satisfies that condition then it prints all statements otherwise it prints only those statements before those conditin was not applied.Also use finally ,"finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.  
+
+Collection(linked.java):- The Collection in Java is a framework that provides an architecture to store and manipulate the group of objects.The program shows implementation of a doubly-linked list with the addition of new nodes at the end of the list. 
                                        
                                        
 
