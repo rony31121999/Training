@@ -41,13 +41,16 @@ Collection2(lsit.java):- 1]used add function - Appends the specified element to 
                          4]used removeAll function- etrieves and removes all elements of list,so used this function and removed all the integers in both the nodes.
              
              
-Set(set.java):- This code contains the functionality of hash set and linkhashset.
+Set(set.java):-  This code contains the functionality of hash set and linkhashset.
+
                 Hash set- unordered, no duplicates,one null
+                
                 LinkedHash set- ordered, no duplicates, one null
                 
                 
        
 TreeSet(set1.java):- This code contains the functionality of Sorted set.
+
                      Sortedset- uses extense to Treeset,ordered,no null,no duplicates
                      
                 
