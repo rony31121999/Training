@@ -53,6 +53,29 @@ TreeSet(set1.java):- This code contains the functionality of Sorted set.
 
                      Sortedset- uses extense to Treeset,ordered,no null,no duplicates
                      
+                     
+HashMap(entry1.java):- HashMap is the implementation of Map, but it doesn't maintain any order and I implemented it taking key and value as integer and string.
+
+LinkedHashMap(entry2.java):-  	LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
+
+TreeMap(entry.java):- TreeMap is the implementation of Map and SortedMap. It maintains ascending order and implemented it by taking 3 random variables and got the sorted output in ascending order.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
+                     
                 
                          
                          
