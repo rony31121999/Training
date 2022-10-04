@@ -62,6 +62,12 @@ Map:- It is combination of key and value,here every key and value is an object.
       LinkedHashMap(entry2.java):-  	LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
 
       TreeMap(entry.java):- TreeMap is the implementation of Map and SortedMap. It maintains ascending order and implemented it by taking 3 random                                     variables and got the sorted output in ascending order.
+      
+      
+Employee Hash Map With Duplicate class(employeehashmap.java) explains that values can be duplicate in java.
+
+
+Employee Hash Map Without Duplicate class() explains that keys cannot be duplicate in java.
 
 
 
