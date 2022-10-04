@@ -69,6 +69,9 @@ Employee Hash Map With Duplicate class(employeehashmap.java) explains that value
 
 Employee Hash Map Without Duplicate class(empwithouthashcode.java) explains that keys cannot be duplicated in java in this also data is in format of emp id and name. Created a class with  key and value and used this class as  composite key and later defined an equals and hashcode function as well.
 
+MultiThreading(session.java):- Multithreading in Java is a process of executing multiple threads simultaneously.
+                               1)
+
 
 
 
