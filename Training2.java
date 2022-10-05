@@ -49,7 +49,7 @@ class HR extends E{
 }
 
 
-public class training2 {
+public class Training2 {
 
     public static void main(String args[]) {
 
