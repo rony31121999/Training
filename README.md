@@ -11,7 +11,7 @@ switch code(Er.java):-Emp switchStatement class is to demonstrate switch conditi
 
 Substring code(Substring.java):- Substring class is to demonstrate extracting substring from a string.
 
-reverse string code(Stringr.java):-Reversestring class is to demonstrate reversing a string using single for loop and charAto string method.
+reverse string code(Stringr.java):-Reversestring class is to demonstrate reversing a string using single for loop and charAt() to string method.
 
 Immutable code(Immutable1.java):- Immutableclass is to demonstarte immutable class as well as immutable members of that class using final and private keywords.We can not modify the member of immutable class after creation of object.
 
