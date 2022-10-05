@@ -31,13 +31,13 @@ Collection(Linked.java):- The Collection in Java is a framework that provides an
  
 Collection2(Lsit.java):- 
 
-    1]used add function - Appends the specified element to the end of this list,so make two linkedlist named node and node1 and add integers in them.
+    1) used add function - Appends the specified element to the end of this list,so make two linkedlist named node and node1 and add integers in them.
 
-    2]used addAll function- Inserts all of the elements in the specified collection into this list, starting at the specified position,so linked node and node1 and output came as linked output of both nodes.        
+    2) used addAll function- Inserts all of the elements in the specified collection into this list, starting at the specified position,so linked node and node1 and output came as linked output of both nodes.        
                          
-    3]used remove function- Retrieves and removes the head (first element) of this list,so function was used as remove(2), so integer at index 2 got  removed. 
+    3) used remove function- Retrieves and removes the head (first element) of this list,so function was used as remove(2), so integer at index 2 got  removed. 
     
-    4]used removeAll function- etrieves and removes all elements of list,so used this function and removed all the integers in both the nodes.
+    4) used removeAll function- etrieves and removes all elements of list,so used this function and removed all the integers in both the nodes.
              
              
 Set(Set.java):-  This code contains the functionality of hash set and linkhashset.
