@@ -1,4 +1,4 @@
-public class arrayexception {
+public class Arrayexception {
     public static void main(String[] args) {
         int i = 0;
 
