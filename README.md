@@ -1,19 +1,19 @@
 # Training
-Constructor code(EMpp.java):- demonstrate initializing variables using constructor and displaying the details of employee;
+Constructor code(EMpp.java):- demonstrate initializing variables using constructor and displaying the details of employee
 
-overloading code(Overloading1.java):- Emp methodOverloading class is to demonstrate method overloading concept using inheritance;
+overloading code(Overloading1.java):- Emp methodOverloading class is to demonstrate method overloading concept using inheritance
 
-continueStatement code(Main.java):- class is to demonstrate continue statement using for each loop.;
+continueStatement code(Main.java):- class is to demonstrate continue statement using for each loop.
 
-if else(Training2.java):-Emp controlStatements class is to demonstrate if-else decision making statements.;
+if else(Training2.java):-Emp controlStatements class is to demonstrate if-else decision making statements.
 
-switch code(Er.java):-Emp switchStatement class is to demonstrate switch condition statement.;
+switch code(Er.java):-Emp switchStatement class is to demonstrate switch condition statement.
 
-Substring code(Substring.java):- Substring class is to demonstrate extracting substring from a string;
+Substring code(Substring.java):- Substring class is to demonstrate extracting substring from a string.
 
-reverse string code(Stringr.java):-Reversestring class is to demonstrate reversing a string using single for loop and charAto string method.;
+reverse string code(Stringr.java):-Reversestring class is to demonstrate reversing a string using single for loop and charAto string method.
 
-Immutable code(Immutable1.java):- Immutableclass is to demonstarte immutable class as well as immutable members of that class using final and private keywords.We can not modify the member of immutable class after creation of object.;
+Immutable code(Immutable1.java):- Immutableclass is to demonstarte immutable class as well as immutable members of that class using final and private keywords.We can not modify the member of immutable class after creation of object.
 
 regex code(Regex1.java):-  Regularexpression class is to validate the employee details like email, employee id, phone number and address. The following restrictions are imposed in the email address local part a> It allows numeric values from 0 to 9.
 
@@ -35,7 +35,8 @@ Collection2(Lsit.java):-
 
     2]used addAll function- Inserts all of the elements in the specified collection into this list, starting at the specified position,so linked node and node1 and output came as linked output of both nodes.        
                          
-    3]used remove function- Retrieves and removes the head (first element) of this list,so function was used as remove(2), so integer at index 2 got  removed.                   
+    3]used remove function- Retrieves and removes the head (first element) of this list,so function was used as remove(2), so integer at index 2 got  removed. 
+    
     4]used removeAll function- etrieves and removes all elements of list,so used this function and removed all the integers in both the nodes.
              
              
@@ -57,7 +58,7 @@ Map:- It is combination of key and value,here every key and value is an object.
       
       HashMap(Entry1.java):- HashMap is the implementation of Map, but it doesn't maintain any order and I implemented it taking key and value as integer                                and string.
 
-      LinkedHashMap(Entry2.java):-  	LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
+      LinkedHashMap(Entry2.java):- LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
 
       TreeMap(Entry.java):- TreeMap is the implementation of Map and SortedMap. It maintains ascending order and implemented it by taking 3 random                                     variables and got the sorted output in ascending order.
       
