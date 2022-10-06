@@ -3,6 +3,8 @@ Constructor code(EMpp.java):- demonstrate initializing variables using construct
 
 overloading code(Overloading1.java):- Emp methodOverloading class is to demonstrate method overloading concept using inheritance
 
+overriding code(Overriding.java):- Emp methodOverloading class is to demonstrate method overriding concept using inheritance
+
 continueStatement code(Main.java):- class is to demonstrate continue statement using for each loop.
 
 if else(Training2.java):-Emp controlStatements class is to demonstrate if-else decision making statements.
