@@ -12,7 +12,7 @@ class Regex1{
         String reg_email="^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$";
         String reg_id="^AMT+[0-9]+$";
         String reg_ph="^91[0-9]{10}+$";
-        String reg_add="^[a-zA-Z0-9+_.-]+[1-9][0-9]{5}+$";
+        String reg_add="^[\\a-zA-Z,0-9 \\s]+[1-9][0-9]{5}+$";
         switch (s){
             case "1":
                 System.out.println("please enter mail");
