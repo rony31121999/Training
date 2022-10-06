@@ -1,3 +1,4 @@
+
 final public class Immutable1 {
     private final int id;
     private final String name;
@@ -13,7 +14,9 @@ final public class Immutable1 {
     }
 
     public static void main(String[] args) {
-        Immutable1 i=new Immutable1(11,"abc");
-        System.out.println(i.name);
+        Immutable1 e1 = new Immutable1(1,"ronak");
+        System.out.println(e1.getName());
+        e1.getName().concat("kanthaliya");
+        System.out.println(e1.getName());
     }
 }
