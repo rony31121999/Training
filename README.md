@@ -25,7 +25,7 @@
 
     a]- using try catch - Java try block is used to enclose the code that might throw an exception. It must be used   within the method.If an exception occurs at the particular statement in the try block, the rest of the block code will not execute. 
 
-    b]- using try catch twice- so using this we can work with more exception as in this code I worked withIndexOutOfBoundsException and Arithmetic Expressions in a single code         
+    b]- using try catch ladder- so using this we can work with more exception as in this code I worked withIndexOutOfBoundsException and Arithmetic Expressions in a single code         
                                        
 13. Exception code with fianlly (Exceptiontest.java):- I took 5 statements and put some condition and if satisfies that condition then it prints all statements otherwise it prints only those statements before those conditin was not applied.Also use finally ,"finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.  
 
@@ -77,6 +77,10 @@ Map:- It is combination of key and value,here every key and value is an object.
     2)setName():- It changes the name of the thread so i set the name as sum and got the output of custom thread as sum.
                                
     3)join():- It waits for a thread to die and by using this function earlier the number output from 1-10 was getting parallely,now it is coming as 1-10 for a single and when that thread ends then 1-10 for another thread.
+    
+24) Count Incrementand and Decrement using Thread(IncDecUsingThread.java)  :-Demonstrate the way of execution of two threads using a count varaible and using  decrement and increment function inside try catch .
+
+
 
 
 
