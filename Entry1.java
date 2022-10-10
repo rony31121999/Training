@@ -1,5 +1,5 @@
 import java.util.*;
-class entry1{
+class Entry1{
     public static void main(String args[]){
         Map<Integer,String> map1=new HashMap<Integer,String>();
         map1.put(10,"rf");
