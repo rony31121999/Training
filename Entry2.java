@@ -1,5 +1,5 @@
 import java.util.*;
-class entry2{
+class Entry2{
     public static void main(String args[]){
         LinkedHashMap<Integer,String> map=new LinkedHashMap<Integer,String>();
         map.put(10,"rf");
