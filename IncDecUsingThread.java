@@ -37,7 +37,7 @@ public class IncDecUsingThread {
 
         t1.start();
         t2.start();
-        //System.out.println(t1.count);
+        
     }
 
 }
