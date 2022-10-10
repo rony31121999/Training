@@ -78,13 +78,13 @@ Map:- It is combination of key and value,here every key and value is an object.
                                
     3)join():- It waits for a thread to die and by using this function earlier the number output from 1-10 was getting parallely,now it is coming as 1-10 for a single and when that thread ends then 1-10 for another thread.
     
-24) Count Incrementand and Decrement using Thread(IncDecUsingThread.java)  :-Demonstrate the way of execution of two threads using a count varaible and using  decrement and increment function inside try catch .
+24. Count Incrementand and Decrement using Thread(IncDecUsingThread.java)  :-Demonstrate the way of execution of two threads using a count varaible and using  decrement and increment function inside try catch .
 
-25)newCachedThreadPool(Task.java):- creates a new thread pool that creates the new threads when needed but will still use the previously created thread whenever they are available to use and executed for loop for i<=10 but it executed all in 5 threads only.
+25.newCachedThreadPool(Task.java):- creates a new thread pool that creates the new threads when needed but will still use the previously created thread whenever they are available to use and executed for loop for i<=10 but it executed all in 5 threads only.
 
-26)newFixedThreadPool(Task1.java):- The method creates a thread pool of the fixed size like I fixed int i <10 so, it created thread pool of same size.
+26.newFixedThreadPool(Task1.java):- The method creates a thread pool of the fixed size like I fixed int i <10 so, it created thread pool of same size.
 
-27)newSingleThreadExecutor(Task2.java):- The method creates a new thread.
+27.newSingleThreadExecutor(Task2.java):- The method creates a new thread.
 
 
 
