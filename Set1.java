@@ -1,5 +1,5 @@
 import java.util.*;
-public class set1{
+public class Set1{
     public static void main(String[] args) {
     SortedSet<String>node2=new TreeSet<>();
         node2.add("fd");
