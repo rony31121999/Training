@@ -1,19 +1,19 @@
-package org.example;
+
 
 import java.util.HashMap;
 import java.util.Map;
 
-class WithoutD{
+class WithD{
     private int id;
     private String name;
-    public WithoutD(int id, String name){
+    public WithD(int id, String name){
         this.id = id;
         this.name = name;
     }
 
     @Override
     public String toString() {
-        return "WithoutD{" +
+        return "WithD{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
@@ -22,18 +22,17 @@ class WithoutD{
 
 public class EmployeeHashMapWithDuplicate {
     public static void main(String[] args){
-        Map<WithoutD, Integer> map = new HashMap<WithoutD, Integer>();
+        Map<WithD, Integer> map = new HashMap<WithD, Integer>();
 
-        map.put(new WithoutD(1,"RK"), 11);
-        map.put(new WithoutD(2,"DK"), 21);
-        map.put(new WithoutD(3,"AW"), 31);
-        map.put(new WithoutD(4,"MY"), 44);
-        map.put(new WithoutD(5,"WE"), 54);
-        map.put(new WithoutD(5,"WE"), 54);
+        map.put(new WithD(1,"rk"), 1);
+        map.put(new WithD(2,"rf"), 2);
+        map.put(new WithD(3,"dr"), 3);
+        map.put(new WithD(4,"we"), 4);
+        map.put(new WithD(5,"wq"), 5);
+        map.put(new WithD(5,"wq"), 5);
 
 
         System.out.println(map);
 
     }
 }
-
