@@ -44,7 +44,7 @@ class HR extends EMP{
 }
 
 
-public class er {
+public class Er {
 
     public static void main(String args[]) {
 
