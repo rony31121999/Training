@@ -65,7 +65,7 @@ Map:- It is combination of key and value,here every key and value is an object.
       20. TreeMap(Entry.java):- TreeMap is the implementation of Map and SortedMap. It maintains ascending order and implemented it by taking 3 random                                     variables and got the sorted output in ascending order.
       
       
-21. Employee Hash Map With Duplicate class(Employeehashmap.java) explains that values can be duplicate in java and this concept was explained in desired code with data of employee id and employee name because every key and every object in map interface is an object
+21. Employee Hash Map With Duplicate class(EmployeeHashMapWithDuplicate.java) explains that values can be duplicate in java and this concept was explained in desired code with data of employee id and employee name because every key and every object in map interface is an object
 
 
 22. Employee Hash Map Without Duplicate class(Empwithouthashcode.java) explains that keys cannot be duplicated in java in this also data is in format of emp id and name. Created a class with  key and value and used this class as  composite key and later defined an equals and hashcode function as well.
