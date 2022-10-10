@@ -1,19 +1,19 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.*;
-class empwithouthashcode {
+class Empwithouthashcode {
     int id;
     String name;
 
 
-    public empwithouthashcode(int i, String n) {
+    public Empwithouthashcode(int i, String n) {
         this.id = i;
         this.name = n;
 
     }
     @Override
     public String toString() {
-        return "empwithouthashcode{" +
+        return "Empwithouthashcode{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
@@ -23,8 +23,8 @@ class empwithouthashcode {
         return hashCode;
     }
     public boolean equals(Object rk){
-        if(rk instanceof empwithouthashcode){
-            empwithouthashcode emp =(empwithouthashcode) rk;
+        if(rk instanceof Empwithouthashcode){
+            Empwithouthashcode emp =(Empwithouthashcode) rk;
             return(emp.name.equals(this.name) && emp.id ==this.id);
         }else{
             return false;
@@ -34,12 +34,12 @@ class empwithouthashcode {
 }
 class entry12 {
     public static void main(String args[]) {
-        empwithouthashcode we = new empwithouthashcode(1, "dhiru");
-        empwithouthashcode re = new empwithouthashcode(23, "roank");
-        empwithouthashcode te = new empwithouthashcode(112, "praj");
-        empwithouthashcode ye = new empwithouthashcode(938, "div");
-        empwithouthashcode xe = new empwithouthashcode(12, "red");
-        HashMap<Integer, empwithouthashcode> empmap = new HashMap();
+        Empwithouthashcode we = new Empwithouthashcode(1, "dhiru");
+        Empwithouthashcode re = new Empwithouthashcode(23, "roank");
+        Empwithouthashcode te = new Empwithouthashcode(112, "praj");
+        Empwithouthashcode ye = new Empwithouthashcode(938, "div");
+        Empwithouthashcode xe = new Empwithouthashcode(12, "red");
+        HashMap<Integer, Empwithouthashcode> empmap = new HashMap();
         empmap.put(1, we);
         empmap.put(23, re);
         empmap.put(112, te);
