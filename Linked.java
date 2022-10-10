@@ -1,6 +1,6 @@
 import javax.xml.crypto.NodeSetData;
 
-class linked {
+class Linked {
     //A node class for doubly linked list
     class Node{
         int item;
@@ -54,7 +54,7 @@ class linked {
 class node13{
     public static void main(String[] args) {
         //create a DoublyLinkedList object
-        linked rk = new linked();
+        Linked rk = new Linked();
         //Add nodes to the list
         rk.addNode(10);
         rk.addNode(20);
