@@ -1,5 +1,5 @@
 import java.util.*;
-class entry{
+class Entry{
     public static void main(String args[]){
         TreeMap<Integer,String> map=new TreeMap<Integer,String>();
         map.put(10,"rf");
