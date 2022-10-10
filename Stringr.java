@@ -1,4 +1,4 @@
-public class stringr {
+public class Stringr {
     public static void main(String[] args) {
         String len="Ronak";
         int i=0;
