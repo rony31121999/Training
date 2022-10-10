@@ -86,6 +86,15 @@ Map:- It is combination of key and value,here every key and value is an object.
 
 27.newSingleThreadExecutor(Task2.java):- The method creates a new thread.
 
+28.Demosem_class(Demosem.java):- Simple thread execution using for loop from int i 0-1000 and call increment is used .
+
+29.Demosync_class(Demosync.java):- Two threads are there in a class and for the threads for loop is implemented from 0-1000 and it was seen that there was data inconsistency.
+
+30.Demosync1_class(Demosync1.java):-Two threads are there in a class and for the threads for loop is implemented from 0-1000 same as above but now we used syncronized function int increment so in output datainconsistency is not seen.
+
+31.Sync_class(Sync.java):- Synchronized block is used in this code to lock an object for any shared resource and more efficent than synchronized method.
+
+
 
 
 
