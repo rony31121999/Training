@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.LinkedList;
-public class set {
+public class Set {
     public static void main(String[] args) {
         LinkedHashSet<Integer> node=new LinkedHashSet<>();
     HashSet<Integer>node1=new HashSet<>();
