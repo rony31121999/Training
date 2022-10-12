@@ -5,7 +5,7 @@
 
 3. overriding code(Overriding.java):- Emp methodOverloading class is to demonstrate method overriding concept using inheritance
 
-4. continueStatement code(Main.java):- class is to demonstrate continue statement using for each loop.
+4. continueStatement code(Main.java):- The continue statement is used in loop control structure when you need to jump to the next iteration of the loop immediately. It can be used with for loop or while loop and to demonstrate it I used for loop.
 
 5. if else(Training2.java):-Emp controlStatements class is to demonstrate if-else decision making statements.
 
