@@ -94,6 +94,8 @@ Map:- It is combination of key and value,here every key and value is an object.
 
 31.Sync_class(Sync.java):- Synchronized block is used in this code to lock an object for any shared resource and more efficent than synchronized method.
 
+32.InterThread_Communication(Example.java):-demonstrated thread wait() and notifyAll() methods to get  odd and even numbers from  1 to 10 .
+
 
 
 
