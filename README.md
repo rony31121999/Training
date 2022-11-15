@@ -58,11 +58,11 @@
 Map:- It is combination of key and value,here every key and value is an object.
       In map duplicate keys are not allowed and duplicate values are allowed.
       
-     18.  HashMap(Entry1.java):- HashMap is the implementation of Map, but it doesn't maintain any order and I implemented it taking key and value as integer                                and string.
+     18.  HashMap(Entry1.java):- HashMap is the implementation of Map, but it doesn't maintain any order and I implemented it taking key and value as integer and string.
 
       19. LinkedHashMap(Entry2.java):- LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
 
-      20. TreeMap(Entry.java):- TreeMap is the implementation of Map and SortedMap. It maintains ascending order and implemented it by taking 3 random                                     variables and got the sorted output in ascending order.
+      20. TreeMap(Entry.java):- TreeMap is the implementation of Map and SortedMap. It maintains ascending order and implemented it by taking 3 random             variables and got the sorted output in ascending order.
       
       
 21. Employee Hash Map With Duplicate class(EmployeeHashMapWithDuplicate.java) explains that values can be duplicate in java and this concept was explained in desired code with data of employee id and employee name because every key and every object in map interface is an object
